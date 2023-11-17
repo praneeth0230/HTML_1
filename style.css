@@ -1,0 +1,97 @@
+ body {
+     font-family: Arial, Helvetica, sans-serif;
+ }
+ 
+ #myImage {
+     width: 8vw;
+     border: 1px solid black;
+ }
+ 
+ .img-div {
+     display: flex;
+     width: 30vw;
+     justify-content: space-between;
+ }
+ 
+ .info {
+     width: 70%;
+ }
+ 
+ .info-p p {
+     margin: 0;
+ }
+ 
+ section img {
+     width: 2vw;
+ }
+ 
+ section .tables-div {
+     display: flex;
+     border: 3px double gray;
+     align-items: center;
+     width: 70vw;
+ }
+ 
+ .first-table {
+     border-right: 2px solid black;
+ }
+ 
+ .second-table {
+     border-right: 2px solid black;
+ }
+ 
+ table {
+     border-collapse: separate;
+     border-spacing: 10px;
+     border-right: 3px double gray;
+     margin-left: 1vw;
+ }
+ 
+ table img {
+     width: 1.5vw;
+ }
+ 
+ .form-div {
+     margin-left: 1vw;
+ }
+ 
+ .hobby-sect {
+     padding: 1em;
+ }
+ /*
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width:95%;
+    margin: 0 auto;
+}
+.right-nav{
+    display: flex;
+    justify-content: space-between;
+    width:20%;
+}
+.right-nav a{
+    text-decoration: none;
+    font-style: italic;
+    color: blue;
+}
+/* main  
+.img-div img{
+    width: 10vw;
+}
+.bio-section{
+    display:flex;
+    gap: 2vw;
+}
+.info-div h1{
+    margin:0;
+}
+.info-div p{
+    margin:0;
+}
+#description{
+    margin-top: 2vw;
+}
+
+*/
